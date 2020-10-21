@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Computer technician, graduated from the technical school of brasília, student of programming.
 <!--
 **danielvito-pereira/danielvito-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
